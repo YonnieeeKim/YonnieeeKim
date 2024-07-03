@@ -1,5 +1,9 @@
 ## Hi I'm Yonnie Kim! 👋 
-<img src=""
+<table>
+  <div float="left">Dream Coder Yonnie</div>
+  <div float="right"><img src="https://github.com/YonnieeeKim/YonnieeeKim/blob/main/images/golden.png"></div>
+</table>
+
 
 <!--
 **YonnieeeKim/YonnieeeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
