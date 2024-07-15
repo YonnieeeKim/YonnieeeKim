@@ -1,5 +1,5 @@
 ## Hi I'm Dream Coder Yonnie Kim! 👋 
-<img src="https://github.com/YonnieeeKim/YonnieeeKim/blob/main/images/golden.png" alt="Golden Image">
+<img src="https://github.com/YonnieeeKim/YonnieeeKim/blob/main/images/golden.png" alt="Golden Image" width="300px">
 "Just believe in yourself.<br> 
 Even if you don't, pretend that you do and, at some point, you will."
 
